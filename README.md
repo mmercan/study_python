@@ -1,7 +1,35 @@
-study_python
+Study Python
 ==============================
-
 it is a journey project of keeping track of what I learn on Python
+
+
+
+Studies
+------------
+  
+    ├── Python Basics                 <- [Basic notebook](./python_basics.ipynb)
+        ├──
+        ├──
+        └──
+    ├── Numpy                         <- [Basic notebook](./python_basics.ipynb)
+    ├── Pandas                        <- [Basic notebook](./python_basics.ipynb)
+    ├── Reading Content
+    │   ├── CSV files                 <- [Basic notebook](./python_basics.ipynb)
+    │   ├── HTML Crawler              <- [Basic notebook](./python_basics.ipynb)
+    │   ├── API consume and Json      <- [Basic notebook](./python_basics.ipynb)
+    │   └── Database                  <- [Basic notebook](./python_basics.ipynb)
+    │
+    ├── Data visualizations           <- [Basic notebook](./python_basics.ipynb)
+    │
+    ├── Data Manipulation             <- [Basic notebook](./python_basics.ipynb)
+
+
+
+
+Data
+------------
+
+
 
 Project Organization
 ------------
