@@ -7,7 +7,7 @@ it is a journey project of keeping track of what I learn on Python
 Studies
 ------------
   
-    ├── Python Basics                 <- [Basic notebook](./python_basics.ipynb)
+    ├── Python Basics                 <- [Basic notebook](./notebooks/python_basics.ipynb)
         ├──
         ├──
         └──
