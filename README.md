@@ -3,6 +3,8 @@ Study Python
 it is a journey project of keeping track of what I learn on Python
 
 
+[Basic notebook](./notebooks/python_basics.ipynb)
+
 
 Studies
 ------------
