@@ -1,7 +1,7 @@
 # study_python
  
 # python basics
-
+[Other notebook](./B.ipynb)
 # Numpy
 
 # Pandas
