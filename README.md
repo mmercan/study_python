@@ -24,9 +24,10 @@ Studies
     ├── Data visualizations           <- [Basic notebook](./python_basics.ipynb)
     │
     ├── Data Manipulation             <- [Basic notebook](./python_basics.ipynb)
-
-
-
+        ├── Fill Null
+        ├── Add new Column
+        ├── Create Category from Variables
+        ├── Create Number Value from Variables
 
 Data
 ------------
